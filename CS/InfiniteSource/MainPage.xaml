@@ -1,4 +1,4 @@
-﻿<Page xmlns:Grid="using:DevExpress.UI.Xaml.Grid" 
+<Page xmlns:Grid="using:DevExpress.UI.Xaml.Grid" 
     x:Class="InfiniteSource.MainPage"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
